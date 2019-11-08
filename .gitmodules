@@ -1,0 +1,12 @@
+[submodule "mvn-parent-poms"]
+	path = asx-parent-pom
+	url = https://github.com/dagrawal/mvn-parent-poms.git
+[submodule "lib-commons"]
+        path = lib-commons
+        url = https://github.com/dagrawal/lib-commons.git
+[submodule "lib-security"]
+        path = lib-security
+        url = https://github.com/dagrawal/lib-security.git
+[submodule "ms-spring-boot-template"]
+        path = spring-boot-template
+        url = https://github.com/dagrawal/ms-spring-boot-template.git

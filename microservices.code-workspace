@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "asx-parent-pom"
+		},
+		{
+			"path": "./lib-security"
+		},
+		{
+			"path": "lib-commons"
+		},
+		
+		{
+			"path": "./spring-boot-template"
+		},
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
